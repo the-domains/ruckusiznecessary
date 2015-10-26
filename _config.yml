@@ -2,8 +2,8 @@ analytics: {}
 color:
   brandColors: []
   brandStrength: 0
-  lightness: 0.456628
-  rhythmicContrast: 0.210754
+  lightness: 0
+  rhythmicContrast: 0
   saturation: 0.008445
 cta: {}
 layout_spectrum: 0.97591
