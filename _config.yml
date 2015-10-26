@@ -1,7 +1,7 @@
 analytics: {}
 color:
   brandColors: []
-  brandStrength: 0.380068
+  brandStrength: 0
   lightness: 0.456628
   rhythmicContrast: 0.210754
   saturation: 0.008445
@@ -10,4 +10,4 @@ layout_spectrum: 0.97591
 name: ruckusiznecessary
 opengraph: {}
 purpose: {}
-typography_spectrum: 0
+typography_spectrum: 0.471284
